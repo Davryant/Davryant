@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Laravel or any Web development Staff
 
 - 📫 How to reach me: davidjtweve@gmail.com 
-- ⚡ Fun fact: Hard work doesn’t bother me, I actually like it! I am eager to learn.😄
+- ⚡ Fun fact: Hard work doesn’t bother me, I actually like it! I am eager to learn. 😎
 
 
