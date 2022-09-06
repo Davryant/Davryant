@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Portal using Laravel
+- 🔭 I’m currently working on Web Portals using Laravel
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Django
